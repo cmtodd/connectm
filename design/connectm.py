@@ -1,6 +1,6 @@
 """
 Classes (actually just one) for implementing Connect-M
-(a general version of Connect-4).
+(a general version of Connect-4).h
 
 Examples:
 
